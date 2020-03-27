@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+
+    <string name="top_name">C H A T  A P P</string>
+    <string name="chat_puas">CHAT SEPUASNYA</string>
+    <string name="looking_for">COPYRIGHT CHATAPP @2020</string>
+
+    //Button Login
+    <string name="sign_in">SIGN IN</string>
+    <string name="register">REGISTER</string>
+
+    //Register Form
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
